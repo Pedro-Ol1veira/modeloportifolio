@@ -1,0 +1,114 @@
+
+
+body {
+     background-color: #000;
+    padding-bottom: 600px;
+}
+
+.center-img {
+    background-size: cover;
+    background-position: center;
+}
+
+    /* header */
+
+header {
+    margin-bottom: 122px;
+}
+
+#logo-html {
+    margin-top: 40px;
+    height: 100px;
+    width: 100px;
+}
+
+#nav {
+    margin-top: 30px;
+}
+
+#nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #fff;
+}
+
+/* Quem sou */
+#computador img {
+    height: px;
+    border-radius: 15px;
+}
+
+#texto1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+#texto1 h2 {
+    margin-bottom: 15px;
+}
+
+main {
+    margin-bottom: 25px;
+}
+
+    /* Portifolio */
+
+#titulo-portifolio {
+    margin-bottom: 41px;
+    color: #fff;
+}
+
+#hamburguer {
+    background-image: url('../img/hamburguer.jpg');
+}
+
+#clinica {
+    background-image: url('../img/cachorros.jpg');
+}
+
+#tenis {
+    background-image: url('../img/sapato.jpg');
+}
+
+#dinheiro {
+    background-image: url('../img/dinheiro.jpg');
+}
+
+#espaco {
+    background-image: url('../img/astronalta.jpg');
+}
+
+#astrologia {
+    background-image: url('../img/astrologia.jpg');
+}
+
+.imagens {
+    height: 370px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.botao {
+    background-color: darkred;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 600;
+    width: 100%;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgb(187, 184, 184);
+    border-radius: 0px 0px 20px 20px;
+}
+.botao:hover {
+    background-color: rgb(66, 10, 10);
+    color: rgb(187, 184, 184);
+}
+.caixa-portifolio {
+    margin-bottom: 40px;
+}
